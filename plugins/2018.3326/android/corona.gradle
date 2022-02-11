@@ -1,0 +1,8 @@
+repositories {
+	jcenter()
+	mavenCentral()
+  maven { url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea" }
+}
+dependencies {
+	implementation 'com.applovin.mediation:mintegral-adapter:16.0.11.0'
+}
