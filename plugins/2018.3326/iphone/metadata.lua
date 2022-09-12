@@ -6,9 +6,9 @@ local metadata =
 
 		-- This is the name without the 'lib' prefix.
 		-- In this case, the static library is called: libSTATIC_LIB_NAME.a
-		staticLibs = {"MTGSDKSplash","MTGSDK", "MTGSDKBanner", "MTGSDKInterActive", "MTGSDKInterstitial","MTGSDKInterstitialVideo", "MTGSDKBidding", "MTGSDKReward", "MTGSDKNativeAdvanced"},
+		staticLibs = {"MintegralAdapter","MTGSDKSplash","MTGSDK", "MTGSDKBanner", "MTGSDKInterstitial","MTGSDKInterstitialVideo", "MTGSDKNewInterstitial", "MTGSDKBidding", "MTGSDKReward", "MTGSDKNativeAdvanced"},
 
-		frameworks = {"AppLovinMediationMintegralAdapter"},
+		frameworks = {},
 		frameworksOptional = {},
 	},
 }
