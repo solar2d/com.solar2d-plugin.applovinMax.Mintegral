@@ -4,6 +4,6 @@ repositories {
   maven { url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea" }
 }
 dependencies {
-	implementation 'com.applovin.mediation:mintegral-adapter:16.5.21.0'
+	implementation 'com.applovin.mediation:mintegral-adapter:16.7.41.0'
 	implementation 'androidx.recyclerview:recyclerview:1.1.0'
 }
