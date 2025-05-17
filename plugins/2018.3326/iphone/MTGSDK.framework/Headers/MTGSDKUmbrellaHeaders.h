@@ -33,4 +33,3 @@ FOUNDATION_EXPORT const unsigned char MTGSDKVersionString[];
 #import <MTGSDK/MTGTrackAdRevenue.h>
 #import <MTGSDK/MTGTrackAdRevenueModel.h>
 
-

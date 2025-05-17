@@ -23,9 +23,13 @@
 #import <MTGSDK/MTGUserInfo.h>
 #import <MTGSDK/MTGBool.h>
 
-#define MTGSDKVersion @"7.6.1"
+#define MTGSDKVersion @"7.7.8"
 
 
+typedef NS_ENUM(NSInteger,MTGAdType) {
+    MTGRewardAd,
+    MTGInterstitialAd
+};
 
 @interface MTGSDK : NSObject
 
@@ -96,6 +100,11 @@
 @property (nonatomic, assign) BOOL doNotTrackStatus;
 
 - (void)setUserInfo:(nonnull MTGUserInfo *)userInfo;
+
+/// Set play video muted for ad type.
+/// @param playVideoMute YES/NO
+/// @param adType adType MTGAdType
+- (void)setPlayVideoMute:(BOOL)playVideoMute forAdType:(MTGAdType)adType;
 
 /**
  *
