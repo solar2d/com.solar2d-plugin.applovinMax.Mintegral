@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/MTGNativeAd.h</key>
 		<data>
-		V/gITKms0CtkcZmiNttOVjQAxJU=
+		Uwi303pz9C85iDCuwa3wwNZ97Ag=
 		</data>
 		<key>Headers/MTGNativeAdManager.h</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Headers/MTGSDK-Swift.h</key>
 		<data>
-		Dtlqk0TX1e7FXmb4J3Y6v/jFpW0=
+		eMt7c1YXjL1AOFCRb5BZl3f2Mkc=
 		</data>
 		<key>Headers/MTGSDK.h</key>
 		<data>
-		KCDw7g/q3K39rm65KE9xGLwQ1j4=
+		7wJN/m6bZhgcDYuHItu5NU8/aBk=
 		</data>
 		<key>Headers/MTGSDKUmbrellaHeaders.h</key>
 		<data>
@@ -78,27 +78,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/jvoa/5EoHOPdDDKs7uflEXx0GM=
+		GRnGn1b25MW0kwd2OAi58dD0zPY=
 		</data>
 		<key>Modules/MTGSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		mhMWexpjmkrGx0RPSzRdhxPQxlM=
+		X4iSKhIsXu0iKC+B1VN3co/RhWg=
 		</data>
 		<key>Modules/MTGSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		6wkLz8B0ZJSGAeWoQCNdZcmZz5k=
+		lLbOjqKAnZWY5fxGjiS/x+IbOAA=
 		</data>
 		<key>Modules/MTGSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Xe5fL10AONLihuSB3gRVvueDAPQ=
+		g3iIqnLMttdH2O9+tbRFTaHMx+g=
 		</data>
 		<key>Modules/MTGSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		6wkLz8B0ZJSGAeWoQCNdZcmZz5k=
+		lLbOjqKAnZWY5fxGjiS/x+IbOAA=
 		</data>
 		<key>Modules/MTGSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		4OwcoLqQIsmqWZXZVLgfIZQIMnA=
+		5HyqhujGTYOk3vfe/ApGqcaYjoo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -203,11 +203,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V/gITKms0CtkcZmiNttOVjQAxJU=
+			Uwi303pz9C85iDCuwa3wwNZ97Ag=
 			</data>
 			<key>hash2</key>
 			<data>
-			OPb+eQUa9COR/RIrwLkD92VLiQwkraMybmB8BujzYjE=
+			J/gUhkT3KGWCUziW2o5lVgQsxYv+zlIw2kG5pQY7jd0=
 			</data>
 		</dict>
 		<key>Headers/MTGNativeAdManager.h</key>
@@ -236,22 +236,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Dtlqk0TX1e7FXmb4J3Y6v/jFpW0=
+			eMt7c1YXjL1AOFCRb5BZl3f2Mkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			8p9Ung6WiF5czTkXGMyjh/0/z71FjMg2XAWrSKaKTvI=
+			93P4FnOSd1FWxRt2BkyRP3fu8/uDYsrgGBP5uEW5kvA=
 			</data>
 		</dict>
 		<key>Headers/MTGSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KCDw7g/q3K39rm65KE9xGLwQ1j4=
+			7wJN/m6bZhgcDYuHItu5NU8/aBk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ej6aice7QwxoCLtocMeWmGvXLBfDq64Csp+TCljFibA=
+			O0/3B/efBIXknvj0axR2rx1OQzPkUXxr65dRCj6SAp8=
 			</data>
 		</dict>
 		<key>Headers/MTGSDKUmbrellaHeaders.h</key>
@@ -313,55 +313,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mhMWexpjmkrGx0RPSzRdhxPQxlM=
+			X4iSKhIsXu0iKC+B1VN3co/RhWg=
 			</data>
 			<key>hash2</key>
 			<data>
-			HsZgPPApZ0Q7vaPicaztnv8hQmVuCQdFT7DWXJ5+WdY=
+			708UN9sXO9K5fWGiVSHurqZElEcv8aNQkvbM7ax9V6s=
 			</data>
 		</dict>
 		<key>Modules/MTGSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6wkLz8B0ZJSGAeWoQCNdZcmZz5k=
+			lLbOjqKAnZWY5fxGjiS/x+IbOAA=
 			</data>
 			<key>hash2</key>
 			<data>
-			xkoJ2UbrMA2w8wKfbZcWJXDsS6YgtUUa53lLIy74Jpw=
+			cjnz/FvvRBdNvXRCvdncMlnVa4PH0jwz+t3fAFnn2/I=
 			</data>
 		</dict>
 		<key>Modules/MTGSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xe5fL10AONLihuSB3gRVvueDAPQ=
+			g3iIqnLMttdH2O9+tbRFTaHMx+g=
 			</data>
 			<key>hash2</key>
 			<data>
-			PPirrQch0bHb/tNieO9/TcOQ8DzsljtwOR8s2Eo9HbY=
+			ax6AUjP9C67dg5j/3xwQepJibGnP/JiUo7OyvvdlrOM=
 			</data>
 		</dict>
 		<key>Modules/MTGSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6wkLz8B0ZJSGAeWoQCNdZcmZz5k=
+			lLbOjqKAnZWY5fxGjiS/x+IbOAA=
 			</data>
 			<key>hash2</key>
 			<data>
-			xkoJ2UbrMA2w8wKfbZcWJXDsS6YgtUUa53lLIy74Jpw=
+			cjnz/FvvRBdNvXRCvdncMlnVa4PH0jwz+t3fAFnn2/I=
 			</data>
 		</dict>
 		<key>Modules/MTGSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4OwcoLqQIsmqWZXZVLgfIZQIMnA=
+			5HyqhujGTYOk3vfe/ApGqcaYjoo=
 			</data>
 			<key>hash2</key>
 			<data>
-			3+FKcLnd+aD8BB7ZZk6D4zR03LW2udIj41DezuvKTxc=
+			isBnaNknGatqbf2WF8M8gcapQhT+aiS1Lmzf+KJ7oBo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

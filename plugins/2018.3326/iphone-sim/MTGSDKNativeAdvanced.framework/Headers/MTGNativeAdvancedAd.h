@@ -10,7 +10,7 @@
 #import "MTGNativeAdvancedAdDelegate.h"
 
 
-#define MTGNativeAdvancedSDKVersion @"7.7.8"
+#define MTGNativeAdvancedSDKVersion @"8.0.2"
 
 
 NS_ASSUME_NONNULL_BEGIN

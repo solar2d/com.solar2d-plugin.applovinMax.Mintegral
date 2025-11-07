@@ -23,7 +23,7 @@
 #import <MTGSDK/MTGUserInfo.h>
 #import <MTGSDK/MTGBool.h>
 
-#define MTGSDKVersion @"7.7.8"
+#define MTGSDKVersion @"8.0.2"
 
 
 typedef NS_ENUM(NSInteger,MTGAdType) {

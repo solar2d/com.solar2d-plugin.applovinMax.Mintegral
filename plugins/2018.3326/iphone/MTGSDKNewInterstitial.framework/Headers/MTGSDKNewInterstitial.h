@@ -23,7 +23,7 @@ FOUNDATION_EXPORT const unsigned char MTGSDKNewInterstitialVersionString[];
     #import "MTGRewardAdInfo.h"
 #endif
 
-#define MTGNewInterstitialSDKVersion @"7.7.8"
+#define MTGNewInterstitialSDKVersion @"8.0.2"
 
 
 /**

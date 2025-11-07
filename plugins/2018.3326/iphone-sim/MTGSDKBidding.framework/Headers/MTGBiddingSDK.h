@@ -9,7 +9,7 @@
 
 
 
-#define MTGBiddingSDKVersion @"7.7.8"
+#define MTGBiddingSDKVersion @"8.0.2"
 
 
 typedef NS_ENUM(NSInteger,MintegralAdType) {
